@@ -2,10 +2,10 @@
 
 ### Application Operations Specialist | Software Developer | IT Operations Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dtrthuann/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thuandtr/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dtthuan.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://thuanthebadluckcoder.github.io/)
-[![Profile Views](https://komarev.com/ghpvc/?username=thuanthebadluckcoder&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thuanthebadluckcoder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://thuandtr.github.io/thuandtr/)
+[![Profile Views](https://komarev.com/ghpvc/?username=thuandtr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thuandtr)
 
 ---
 
@@ -101,17 +101,17 @@ I'm a passionate technologist with a Computer Science degree from International 
 
 ## 🚀 Featured Projects
 
-### [Social "Netword"](https://github.com/ThuanTheBadLuckCoder/Social_Netword)
+### [Social "Netword"](https://github.com/thuandtr/Social_Netword)
 **Full-stack authentication system** with secure token management, password hashing, and session handling
 - **Tech Stack:** Node.js, Express.js, Next.js, MySQL, Redis
 - Production-ready authentication flow with HTTP-only cookies
 
-### [RAG-based Application for Web Frontend Development](https://github.com/ThuanTheBadLuckCoder/MERN_AI_CHATBOT)
+### [RAG-based Application for Web Frontend Development](https://github.com/thuandtr/MERN_AI_CHATBOT)
 **AI-powered chatbot** leveraging LLMs (OpenAI GPT, Google Gemini) for front-end development assistance
 - **Tech Stack:** MERN Stack, LangChain, Elasticsearch, Kibana, Docker
 - Advanced RAG techniques with dedicated front-end documentation processing
 
-### [Movie Ticket Booking Platform](https://github.com/ThuanTheBadLuckCoder/movieTicketBooking)
+### [Movie Ticket Booking Platform](https://github.com/thuandtr/movieTicketBooking)
 **Full-stack web application** for seamless movie ticket booking experience
 - **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - User-friendly interface for browsing movies, selecting showtimes, and booking tickets
@@ -138,11 +138,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuandtr/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtthuan.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thuanthebadluckcoder.github.io/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThuanTheBadLuckCoder)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thuandtr.github.io/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thuandtr)
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/thuanthebadluckcoder">ThuanTheBadLuckCoder</a></i>
+  <i>⭐️ From <a href="https://github.com/thuandtr">thuandtr</a></i>
 </p>
