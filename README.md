@@ -1,35 +1,148 @@
-<h1 align="center">Hi 👋, I'm Thuan</h1>
-<h3 align="center">A passionate Frontend Developer from Vietnam</h3>
+# Hi, I'm Thuan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thuanthebadluckcoder&label=Profile%20views&color=0e75b6&style=flat" alt="thuanthebadluckcoder" /> </p>
+### Application Operations Specialist | Software Developer | IT Operations Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thuanthebadluckcoder" alt="thuanthebadluckcoder" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dtrthuann/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dtthuan.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://thuanthebadluckcoder.github.io/)
+[![Profile Views](https://komarev.com/ghpvc/?username=thuanthebadluckcoder&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thuanthebadluckcoder)
 
-<p align="left"> <a href="https://twitter.com/dtr_thuann" target="blank"><img src="https://img.shields.io/twitter/follow/dtr_thuann?logo=twitter&style=for-the-badge" alt="dtr_thuann" /></a> </p>
+---
 
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThuanTheBadLuckCoder?tab=repositories](https://github.com/ThuanTheBadLuckCoder?tab=repositories)
+I'm a passionate technologist with a Computer Science degree from International University - VNU HCMC (Class of 2025), specializing in **Software Development** and **IT Operations**. Currently working as an Application Operations Specialist at **Sacombank**, developing Core Banking applications with focus on International Payment solutions and SWIFT messaging infrastructure.
 
-- 📝 I regularly write articles on [https://thuanthebadluckcoder.github.io/](https://thuanthebadluckcoder.github.io/)
+- 🏦 Developing Core Banking applications at Sacombank (Temenos T24, JBasic)
+- 🔧 Former IT Operations Engineer Intern at **Bosch Global Software Technologies Vietnam**
+- 💻 Former Software Developer Intern at **DotB Educational Technology**
+- 🌱 Continuously learning and expanding my skill set in full-stack development and IT operations
+- 📫 Reach me at: **dtthuan.contact@gmail.com**
 
-- 📫 How to reach me **dtthuan.contact@gmail.com**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ Technical Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dtrthuann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dtrthuann/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/thunontrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thunontrn" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dontrnthun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dontrnthun" height="30" width="40" /></a>
+### Software Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Database & Data Management
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### IT Operations & Tools
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-00A1E0?style=flat&logo=servicenow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### 🏦 **Sacombank** - Application Operations Specialist
+*Dec 2025 - Present | Ho Chi Minh City, Vietnam*
+- Developing Core Banking applications with Temenos T24 and JBasic
+- Specializing in International Payment solutions and SWIFT messaging infrastructure
+- Managing Electronic Payment systems including ACH operations and real-time transaction processing
+
+### ⚙️ **Bosch Global Software Technologies Vietnam** - IT Operations Engineer Intern
+*Apr 2025 - Sep 2025 | Ho Chi Minh City, Vietnam*
+- Provided L2 support via SMT Ticketing system following ITIL processes with defined SLA & KPI
+- Contributed to problem investigation, change management, and database optimization using Oracle PL/SQL
+- Supported deployment of new features, hot-fixes, and application server maintenance
+
+### 💻 **DotB Educational Technology** - Software Developer Intern
+*Apr 2023 - Apr 2024 | Ho Chi Minh City, Vietnam*
+- Optimized system performance through code refactoring and database query optimization
+- Developed custom SugarCRM integration APIs for seamless CRM-WordPress data flow
+- Built custom client websites exceeding performance benchmarks and client expectations
+
+---
+
+## 🎯 Freelance Experience
+
+### 🌐 **Anh Quan Technology Co., Ltd. (AQTech)** - Web Application Developer
+*Apr 2025 - Present | Ho Chi Minh City, Vietnam*
+
+**Tech Stack:** WordPress, HTML, CSS
+
+- Boosted conversion rates by designing and implementing responsive landing pages with advanced UX principles
+- Reduced page load times by 40% through custom WordPress theme optimization and performance enhancement techniques
+- Delivered custom WordPress plugins that automated business processes, saving hours weekly for client operations
+- Led technical documentation efforts for the development team, improving project handover efficiency
+
+### 💡 **TheDigitalLab** - Web Application Developer
+*Aug 2023 - Dec 2024 | Ho Chi Minh City, Vietnam*
+
+**Tech Stack:** WordPress, MailChimp, HTML, CSS
+
+- Increased lead generation through development of high-converting landing pages and custom form integrations
+- Automated marketing workflows by integrating custom forms with MailChimp, processing 50+ leads monthly
+- Enhanced website functionality through strategic plugin research and implementation of performance-optimized solutions
+
+---
+
+## 🚀 Featured Projects
+
+### [Social "Netword"](https://github.com/ThuanTheBadLuckCoder/Social_Netword)
+**Full-stack authentication system** with secure token management, password hashing, and session handling
+- **Tech Stack:** Node.js, Express.js, Next.js, MySQL, Redis
+- Production-ready authentication flow with HTTP-only cookies
+
+### [RAG-based Application for Web Frontend Development](https://github.com/ThuanTheBadLuckCoder/MERN_AI_CHATBOT)
+**AI-powered chatbot** leveraging LLMs (OpenAI GPT, Google Gemini) for front-end development assistance
+- **Tech Stack:** MERN Stack, LangChain, Elasticsearch, Kibana, Docker
+- Advanced RAG techniques with dedicated front-end documentation processing
+
+### [Movie Ticket Booking Platform](https://github.com/ThuanTheBadLuckCoder/movieTicketBooking)
+**Full-stack web application** for seamless movie ticket booking experience
+- **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- User-friendly interface for browsing movies, selecting showtimes, and booking tickets
+
+---
+
+## 🎓 Education & Certifications
+
+**Engineer in Information Technology**  
+International University - Vietnam National University | Oct 2020 - Aug 2025
+
+**Certifications:**
+- IELTS Academic (B2 Level) - IDP, August 2025
+- The Complete JavaScript Course 2025 - Udemy Bosch, July 2025
+- React - The Complete Guide 2025 - Udemy Bosch, September 2025
+- ServiceNow ITSM from 0 to Hero - Udemy Bosch, September 2025
+- The Complete Full-Stack Web Development Bootcamp - Udemy Bosch, October 2025
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dtrthuann/](https://www.linkedin.com/in/thuandtr/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtthuan.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thuanthebadluckcoder.github.io/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThuanTheBadLuckCoder)
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/thuanthebadluckcoder">ThuanTheBadLuckCoder</a></i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thuanthebadluckcoder&show_icons=true&locale=en&layout=compact" alt="thuanthebadluckcoder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thuanthebadluckcoder&show_icons=true&locale=en" alt="thuanthebadluckcoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuanthebadluckcoder&" alt="thuanthebadluckcoder" /></p>
