@@ -54,6 +54,16 @@ I'm a passionate technologist with a Computer Science degree from International 
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuandtr&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuandtr&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuandtr&theme=radical&hide_border=true)
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏦 **Sacombank** - Application Operations Specialist
